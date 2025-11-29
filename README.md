@@ -20,6 +20,9 @@ Discount impact analysis
 
 Fully interactive slicers (Year, Day, Gender)
 
+📸 Dashboard Preview
+![Walmart_Sales_Dashboard](https://github.com/user-attachments/assets/5a39ab2c-38db-4ab2-abfd-d2baf8a3d8a5)
+
 🛠 Tools Used
 
 Microsoft Excel
@@ -37,7 +40,3 @@ Excel formulas & formatting
 Walmart_Sales_Dashboard.xlsx – Main dashboard
 
 Walmart_Sales_Dashboard.jpeg – Dashboard preview
-
-📸 Dashboard Preview
-![Walmart_Sales_Dashboard](https://github.com/user-attachments/assets/5a39ab2c-38db-4ab2-abfd-d2baf8a3d8a5)
-
