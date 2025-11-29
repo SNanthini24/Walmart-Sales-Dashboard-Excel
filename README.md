@@ -35,4 +35,5 @@ Excel formulas & formatting
 📁 Project Files
 
 Walmart_Sales_Dashboard.xlsx – Main dashboard
+
 Walmart_Sales_Dashboard.jpeg – Dashboard preview
